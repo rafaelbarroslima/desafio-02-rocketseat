@@ -53,6 +53,6 @@ Você tem liberdade para escolher a estilização que preferir para esse desafio
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/rafaelbarroslima/desafio-02-rocketseat/blob/master/LICENSE) para mais detalhes.
 
 ---
